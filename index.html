@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Daily Routine Todo List</title>
+  <style>
+    .todo-item {
+      margin-bottom: 10px;
+    }
+    .todo-item.completed {
+      text-decoration: line-through;
+    }
+  </style>
+</head>
+<body>
+  <h1>Daily Routine Todo List</h1>
+  <form id="todoForm">
+    <input type="text" id="todoInput" placeholder="Enter a task" required />
+    <button type="submit">Add Task</button>
+  </form>
+  <div id="todoList"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
