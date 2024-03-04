@@ -1,0 +1,22 @@
+{
+  "name": "todo-list-grr",
+  "version": "1.0.0",
+  "description": "This is a pet project to learn react",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davishuffin/todo-list.git"
+  },
+  "dependencies": {
+    "easy-utils-greg": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davishuffin/todo-list/issues"
+  },
+  "homepage": "https://github.com/davishuffin/todo-list#readme"
+}
